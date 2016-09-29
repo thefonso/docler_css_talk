@@ -28,7 +28,7 @@ by the end of this section you will be able to...
 
 CSS selectors allow you to select and manipulate HTML element(s).
 
-CSS selectors are used to "find" (or select) HTML elements based on their id, classes, types, attributes, values of attributes and much more.
+CSS selectors are used to "find" (or select) HTML elements based on their id, classes, types, attributes and values of attributes.
 
 ###The element Selector
 The element selector selects elements based on the element name.
