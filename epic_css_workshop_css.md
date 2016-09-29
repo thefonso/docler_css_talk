@@ -373,7 +373,7 @@ Let us have some fish explain this to us.
 
 [SpeciFISHity](specifishity1.pdf)
 
-<img src="specifishity1.pdf" height="612" width="792" alt="box">
+<img src="specifishity1.jpg" height="612" width="792" alt="box">
 
 #Normalize.css
 
@@ -574,10 +574,38 @@ If you wanna go down the rabbit hole check out the reference
 
 [sass reference](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 
-#Demo App - Sassy(sassy_fonso.md)
+#Demo App - Sassy
+
+Example of app using sass.
+
+#Build Sassy Art
+
+Now we can do a code along for sass with the sassy-art files folder in this directory.
+
+###Sassy-Art (Styling Rails Apps with SASS)
+
+This is a super simple sample Rails app (limited functionality -- Index action only) designed for the SASS lesson / talk.
+
+As a group, we'll use SASS to style the app together and highlight some of the things that can be done.
+
 
 #Docler examples
 
+Now let's explore sass in one of our projects.
+
+Example of sass used in Docler Portal. Open these files...
+
+_channelpage.scss
+
+_scheme.scss
+
+sonicbox/css/_colors.scss
+
+common/css/_colors.scss
+
+NOTE: use of command+leftClick on @import to bury down to find actual color
+
+GOLDEN RULE: when needing to add colors, change the associated interface (_scheme)
 
 ### Refactoring and Tricks 
 - css tricks
