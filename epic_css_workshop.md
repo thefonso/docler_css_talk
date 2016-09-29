@@ -325,7 +325,7 @@ let's play in our **stylsheet.css**
 Note: I would invite you the student to read carefully both the pro and against positions. As a learner you must first learn the tools ...as a you journey to becoming a master you learn WHEN to break them. Choose your own speed on this path :)
 
 
-###( end Part 1 - next up ...)
+###( end PART 1 - next up ...)
 
 #Specificity and Normalization
 
@@ -416,9 +416,12 @@ Take a peek at the former king of css resets
 
 Download a copy of the first ever web page and link normalize.css to it...let's see what happens.
 
-###( end Part 2 - next up ...)
+###( end PART 2 - next up ...)
 
 ## Sass
+
+Sass is a css preprocessor. Sass lets you use features that don't exist in CSS yet like variables, nesting, mixins, inheritance and other nifty goodies that make writing CSS fun. Here is a list of abilities we will quickly review...
+
 - Variables
 - Nesting
 - Partials
@@ -427,7 +430,7 @@ Download a copy of the first ever web page and link normalize.css to it...let's 
 - Inheritance
 - Operators
 
-Sass is a css preprocessor. Sass lets you use features that don't exist in CSS yet like variables, nesting, mixins, inheritance and other nifty goodies that make writing CSS fun.
+First up...
 
 ###Variables
 
