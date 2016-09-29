@@ -327,15 +327,15 @@ Note: I would invite you the student to read carefully both the pro and against 
 
 ###( end Part 1 - next up ...)
 
-##Specificity and Normalization
+#Specificity and Normalization
 
 
-#Specificity
+##Specificity
 
 If you have two (or more) conflicting CSS rules that point to the same element, there are some basic rules that a browser follows to determine which one is most **specific** and therefore wins out. Thus, Specificity determines, which CSS rule a browser applies.
 
 
-##Specificity hierarchy
+###Specificity hierarchy
 Every selector has its place in the specificity hierarchy. There are five distinct categories which define the specificity level of a given selector. They are listed here in order of precedence:
 
 1. **!important:** Any property declaration with the term !important takes highest precedence, even over inline styles. If !important is declared more than once on conflicting properties targeting the same element, you CSS author be shot, and the other precedence rules are in effect. It’s as if the weight of the selector with the !important declaration were 1-X-A-B-C, for that property only (where A, B and C are the actual values of the parent selector as described below). Because of this, important should not be used, but can be handy in debugging.
@@ -354,7 +354,7 @@ Including for instance :before and :after. These have the lowest value in terms 
 
 If more than one selector have the same specificity, then adhere to the cascade: the last declared rule takes precedence.
 
-##CSS Specificity Tools & Resources
+###CSS Specificity Tools & Resources
 
 It may not seem like something that important, and in most cases you won’t come across any conflicts at all, but the larger and more complex your CSS files become, or the more CSS files you start to juggle with, the greater likelihood there is of conflicts turning up.
 
@@ -375,7 +375,7 @@ Let us have some fish explain this to us.
 
 <img src="specifishity1.jpg" height="612" width="792" alt="box">
 
-#Normalize.css
+##Normalize.css
 
 In case you didn’t know, every browser has its own default stylesheet that it uses to make unstyled websites appear more legible. For example, most browsers, by default, make links blue and visited links purple, give tables a certain amount of border and padding, apply variable font-sizes to H1, H2, H3 etc. and a certain amount of padding to almost everything. Ever wondered why Submit buttons look different in every browser?
 
@@ -608,7 +608,7 @@ NOTE: use of command+leftClick on @import to bury down to find actual color
 GOLDEN RULE: when needing to add colors, change the associated interface (_scheme)
 
 ### Refactoring and Tricks 
-- css tricks
+- [css tricks](https://css-tricks.com/child-and-sibling-selectors/)
 
 ### Further interesting reading
 - [OOCSS, ACSS, BEM, SMACSS](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/)
