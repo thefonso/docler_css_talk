@@ -1,4 +1,7 @@
-### Basic css 
+# CSS and Sass 
+
+This talk will discuss basic topics in css and move into a discussion on Sass.
+Some topics discussed wil be...
 
 - selectors
 - box model
@@ -7,8 +10,6 @@
 - Meyer reset (why it mattered)
 
 ##CSS PART-1: Selectors and Basic styling
-
-So we are gonna make a web page and add a stylesheet to it...
 
 ###Learning Objectives:
 
