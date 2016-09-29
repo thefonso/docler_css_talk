@@ -3,11 +3,13 @@
 This talk will discuss basic topics in css and move into a discussion on Sass.
 Some topics discussed wil be...
 
-- selectors
-- box model
-- inline vs external file
-- Class vs ID
-- Meyer reset (why it mattered)
+ - PART-1: Selectors and Basic styling
+
+ - PART-2: Child and Sibling Selectors
+
+ - PART-3: Specificity and Normalization
+
+ - PART-4: SASS
 
 ##CSS PART-1: Selectors and Basic styling
 
