@@ -1,7 +1,5 @@
 ### Basic css 
 
-	WDI_LA_10_11/01-week/css_selectors_and_styling/readme.md
-
 - selectors
 - box model
 - inline vs external file
