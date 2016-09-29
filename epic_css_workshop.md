@@ -414,7 +414,7 @@ Take a peek at the former king of css resets
 
 ##Exercise
 
-Download a copy of the first ever web page and link normalize.css to it...let's see what happens.
+Download a copy of the first ever web page and link normalize.css to it...let's see what happens. (note: first\_ever\_web\_page.htm and normaize.css are included in this repo)
 
 ###( end PART 2 - next up ...)
 
