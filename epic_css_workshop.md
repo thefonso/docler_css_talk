@@ -345,7 +345,7 @@ I think everyone understands the basic decendent selector, but let's do a quick 
 
 ###Child combinator
 
-This one we covered in the intro to this article. Let's drive that same example home with a visual:
+This one we covered in the intro to this section. Let's drive that same example home with a visual:
 
 ![child combinator](child-combinator-selector-example.png)
 
@@ -651,11 +651,11 @@ This is a super simple sample Rails app (limited functionality -- Index action o
 (Time permiting) As a group, we'll use SASS to style the app together and highlight some of the things that can be done.
 
 
-#Docler examples
+#Project examples
 
-Now let's explore sass in one of our projects. And discuss the arcitecture used to employ sass.
+Now let's explore sass in one of our projects. And discuss the architecture used to employ sass.
 
-Example of sass used in Docler Portal. Open these files...
+Open these files...
 
 _channelpage.scss
 
@@ -675,6 +675,7 @@ GOLDEN RULE: when needing to add colors, change the associated interface (_schem
 
 ### Further interesting reading
 - [OOCSS, ACSS, BEM, SMACSS](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/)
+- [PostCSS](http://postcss.org)
 
 <br>
 <br>
